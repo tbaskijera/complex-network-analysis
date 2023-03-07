@@ -124,7 +124,8 @@ Primjenom istog algoritma dobiti ćemo rute s najmanje prometa od luke u Stockho
 
 Zatim navedene podatke možemo prikazati i na interaktivnoj mapi:
 
-![]()
+![Screenshot from 2023-03-07 21-04-43](https://user-images.githubusercontent.com/68339659/223546763-c47b0989-37c1-4562-8c14-e414b938e181.png)
+
 
 Proučavanjem interaktivne mape **možemo zaključiti da je doseg luke u Stockholmu uglavnom Skandinavsko područje i Velika Britanija, a rijetko Europa.**
 
@@ -265,6 +266,14 @@ Stupnjevi centralnosti za svaki čvor u našoj mreži, silazno:
 | P122 |             0.00806452 |
 
 Za čvorove s najvećim stupnjem centralnosti prikladno je i napraviti vizualizaciju u obliku ego grafa:
+![Figure_1](https://user-images.githubusercontent.com/68339659/223547400-3f54f191-fa4a-4968-a65d-267d26e0a9d2.png)
+![Figure_2](https://user-images.githubusercontent.com/68339659/223547405-4cc31e6b-2230-479a-be52-f15d1da34f37.png)
+![Figure_3](https://user-images.githubusercontent.com/68339659/223547409-f6cd3c6d-d661-4bc7-b740-c331b6688bc9.png)
+![Figure_4](https://user-images.githubusercontent.com/68339659/223547413-8900dcd6-fc3a-48a1-a45f-e6d259baf144.png)
+![Figure_5](https://user-images.githubusercontent.com/68339659/223547416-bbcc87a0-5ea6-4340-9208-c754417c3d7f.png)
+![Figure_6](https://user-images.githubusercontent.com/68339659/223547418-e1951f81-6e92-4207-bb9f-616cbcbdd1af.png)
+
+
 
 S druge strane, mjera međupoloženosti čvora mjeri u kojoj se mjeri čvor nalazi na najkraćem putu između parova drugih čvorova u mreži. Čvorovi s visokom međupoloženosti su oni koji će vjerojatno biti ključni za protok informacija, resursa ili, u kontekstu kompleksne mreže u domeni transporta, prometa kroz mrežu.
 
@@ -445,6 +454,13 @@ Identificirane zajednice:
 | 17 | ['P43', 'P63', 'P67', 'P70', 'P95', 'P102', 'P108', 'P113', 'P119', 'P124']                                                               |  0.222222 |
 
 Primjeri pojedinih zajednica:
+![6c90a527-e848-4cbc-9f90-84c35f4c5364](https://user-images.githubusercontent.com/68339659/223547081-a79b8a76-c4c2-4cc4-8dfe-0cdc8e1c5d99.png)
+![85cf5bfc-2fad-4082-9c38-638b1abac695](https://user-images.githubusercontent.com/68339659/223547087-eff86176-a36d-44ab-85c2-602d13825980.png)
+![232a8630-5b2b-4c83-b718-b7b181b6a003](https://user-images.githubusercontent.com/68339659/223547091-4fee6f4a-7d59-4dd0-8add-b30b630e1e7b.png)
+![14912be1-c8ce-483d-a737-5c4f628a2f25](https://user-images.githubusercontent.com/68339659/223547097-91a8d324-9670-471f-a16f-accacb474c5e.png)
+![457643a6-0283-4dbd-bb3f-a9984380ab8c](https://user-images.githubusercontent.com/68339659/223547098-d81de163-8cd7-4f3b-9d03-fb97610a6b18.png)
+![Screenshot from 2023-03-07 20-30-09](https://user-images.githubusercontent.com/68339659/223547352-54a815c4-243c-4507-ad74-1f4c6e9a0ba9.png)
+![Screenshot from 2023-03-07 20-30-22](https://user-images.githubusercontent.com/68339659/223547360-f09a0fc4-6dc6-44e5-a5bb-7f840a0e9ea0.png)
 
 Pojedine luke unutar određene zajednice većinom su u neposrednoj blizini. Težina veze, očekivano, ne utječe na grupiranje. Sukladno tome, **možemo zaključiti kako se luke pretežno grupiraju ovisno o njihovim koordinatama, odnosno geografskom položaju.** .
 
