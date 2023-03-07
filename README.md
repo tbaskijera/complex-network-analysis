@@ -12,11 +12,11 @@
 
 ## Istraživačka pitanja
 
-1. Odrediti najefikasnije rute od luke u Stockohlmu do svih ostalih luka s kojima je povezana, uzimajući u obzir gustoću prometa, te ispitati doseg navedene luke
+1. Odrediti najefikasnije rute od luke u Stockohlmu do svih ostalih luka s kojima je povezana, uzimajući u obzir gustoću prometa, te ispitati doseg navedene luke. Analiza će se vršiti na globalnoj razini.
 
-2. Identificirati kritične luke čijim bi se isključivanjem iz mreže značajno utjecalo na promet morem, odnosno na strukturu i funckiju mreže
+2. Identificirati kritične luke čijim bi se isključivanjem iz mreže značajno utjecalo na promet morem, odnosno na strukturu i funckiju mreže. Analiza će se vršiti na lokalnoj razini.
 
-3. Istražiti utjecaj grupiranja luka u zajednice s obzirom na njihove koordinate, odnosno geografski položaj
+3. Istražiti utjecaj grupiranja luka u zajednice s obzirom na njihove koordinate, odnosno geografski položaj. Analiza će se vršiti na središnjoj razini.
 
 ## Podaci i konstrukcija mreže
 
