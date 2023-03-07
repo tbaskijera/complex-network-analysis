@@ -118,7 +118,6 @@ def communities():
 
 G = nx.DiGraph()
 construct_network()
-shorthest_path_source_target()
 shorthest_path_source()
 critical_nodes()
 communities()
