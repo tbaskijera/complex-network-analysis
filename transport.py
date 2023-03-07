@@ -77,7 +77,7 @@ def shorthest_path_source():
             existing_markers.append(port)
         print(weights[index])
         folium.PolyLine(trail_coordinates, tooltip=weights[index]).add_to(map)
-    map.save('./map2.html')
+    map.save('./map.html')
 
 
 def critical_nodes():
